@@ -1,0 +1,21 @@
+# MPLAB X generated build files
+/build/
+/dist/
+
+# Compiled object and executable files
+*.o
+*.obj
+*.elf
+*.hex
+*.cof
+*.map
+*.d
+
+# Debug and temporary files
+*.tmp
+*.bak
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
